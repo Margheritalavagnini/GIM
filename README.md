@@ -33,4 +33,4 @@ Esercizio Grafica in Movimento
 
 [2_Pioggia](https://margheritalavagnini.github.io/GIM/Esercizio_3/2_Pioggia/index.html)
 
-[2_Neve](https://margheritalavagnini.github.io/GIM/Esercizio_3/3_Neve/index.html)
+[3_Neve](https://margheritalavagnini.github.io/GIM/Esercizio_3/3_Neve/index.html)
