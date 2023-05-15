@@ -49,4 +49,4 @@ function createSnowflake() {
   }
   
   startSnowfall();
-  // codice suggerito da ChatGPT
+  
