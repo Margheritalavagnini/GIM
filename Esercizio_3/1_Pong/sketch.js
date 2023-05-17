@@ -1,44 +1,37 @@
-let posizioneX = 400
-let posizioneY = 200
-let velX = 2
-let velY = 3
-
-
-
-
-function setup(){
-	createCanvas(800, 400)
-	posizioneX = width/2
-	posizioneY = height/2
-	velX = random(-4, 4)
-	velY = random(-4, 4)
-	background(240, 60, 0)
-
-
+functionSetup() {
+	createCanvas(windowWidth, windowHeight)
+	background(0)
 }
 
+// Creazione delle palle
+const numPalle = 5; // Numero di palle
+const diametroPalle = 50; // Diametro delle palle
+const palle = [];
 
-
-function draw(){
-
-	noStroke()
-
-	//fill(map(posizioneX, 0, width, 0, 225), map(posizioneY, 0, width))
-
-	fill(random(255), random(255), random(255))
-
-	ellipse(posizioneX, posizioneY, 20, 20)
-
-	posizioneX = posizioneX + velX
-	posizioneY = posizioneY + velY
-
-	if(posizioneX >= 800 || posizioneX <= 0) velX = -velX
-	if(posizioneY >= 400 || posizioneY <= 0) velY = -velY
-	
+for (let i = 0; i < numPalle; i++) {
+  const palla = document.createElement("div");
+  palla.className = "palla";
+  palla.style.width = diametroPalle + "px";
+  palla.style.height = diametroPalle + "px";
+  palla.style.left = Math.random() * 100 + "%";
+  palla.style.top = Math.random() * 100 + "%";
+  document.body.appendChild(palla);
+  palle.push(palla);
 }
 
-function keyPressed(){
+// Animazione dell'effetto ottico
+setInterval(() => {
+  palle.forEach((palla) => {
+    palla.style.backgroundColor = getRandomColor();
+  });
+}, 1000 / 30);
 
-	save("pong.png")
-
+// Funzione per generare un colore casuale
+function getRandomColor() {
+  const letters = "0123456789ABCDEF";
+  let color = "#";
+  for (let i = 0; i < 6; i++) {
+    color += letters[Math.floor(Math.random() * 16)];
+  }
+  return color;
 }
