@@ -27,7 +27,7 @@ Esercizio Grafica in Movimento
 
 [Esercizio_2B](https://margheritalavagnini.github.io/GIM/Esercizio_2B/indexB.html)
 
-## Esercizio 
+## Esercizio 3
 
 [1_Pong](https://margheritalavagnini.github.io/GIM/Esercizio_3/1_Pong/index.html)
 
