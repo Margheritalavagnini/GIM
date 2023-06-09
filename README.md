@@ -37,3 +37,4 @@ Esercizio Grafica in Movimento
 
 ## Esercizio 4
 [Orologio](https://margheritalavagnini.github.io/GIM/Esercizio_4/index.html)
+Il timer rappresenta il mistero del tempo e il suo inesorabile scorrere. Ci ricorda che il tempo è prezioso e fugace, invitandoci a vivere nel presente con consapevolezza. Osservandolo, riflettiamo sull'effimero della vita e sull'importanza di utilizzare saggiamente il tempo che ci è concesso. Ci sfida a rendere ogni istante significativo, a colpire i nostri obiettivi ea lasciare un'impronta duratura nel fluire del tempo. Il timer ci invita a danzare con il tempo stesso, abbracciando la sua bellezza mutevole e sfruttando al meglio ogni attimo della nostra esistenza. È un richiamo costante a vivere in modo autentico, a crescere ea valorizzare la nostra relazione con il tempo.
