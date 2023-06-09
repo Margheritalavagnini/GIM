@@ -36,4 +36,5 @@ Esercizio Grafica in Movimento
 [3_Neve](https://margheritalavagnini.github.io/GIM/Esercizio_3/3_Neve/index.html)
 
 ## Esercizio 4
-[Orologio](https://margheritalavagnini.github.io/GIM/Esercizio_4/index.html)
+[Timer](https://margheritalavagnini.github.io/GIM/Esercizio_4/index.html)
+ Il timer è una sfida costante con il tempo che scorre, un richiamo incessante a vivere con intenzionalità ea valorizzare il nostro rapporto con il tempo. Ci sprona a superare le nostre limitazioni, ad abbracciare il cambiamento e ad abbracciare la bellezza e l'imprevedibilità del fluire del tempo. È attraverso questa sfida che possiamo veramente crescere, evolverci e trascendere i confini della nostra esistenza.
