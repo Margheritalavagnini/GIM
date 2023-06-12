@@ -9,7 +9,7 @@ function formatNumber(number) {
 	var now = new Date();
 	
 	// Imposta la data di fine del timer
-	var endDate = new Date("June 20, 2023 15:50:00");
+	var endDate = new Date("June 27, 2023 17:00:00");
 	
 	// Calcola la differenza tra la data di fine e la data corrente
 	var timeRemaining = endDate - now;
