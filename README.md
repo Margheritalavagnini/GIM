@@ -36,5 +36,7 @@ Esercizio Grafica in Movimento
 [3_Neve](https://margheritalavagnini.github.io/GIM/Esercizio_3/3_Neve/index.html)
 
 ## Esercizio 4
+
 [Timer](https://margheritalavagnini.github.io/GIM/Esercizio_4/index.html)
- Il timer è una sfida costante con il tempo che scorre, un richiamo incessante a vivere con intenzionalità ea valorizzare il nostro rapporto con il tempo. Ci sprona a superare le nostre limitazioni, ad abbracciare il cambiamento e ad abbracciare la bellezza e l'imprevedibilità del fluire del tempo. È attraverso questa sfida che possiamo veramente crescere, evolverci e trascendere i confini della nostra esistenza.
+Il timer retrocedente fino al 27 giugno 2023 è un simbolo rilevante nel contesto accademico. Sebbene non abbia alcuna influenza sulla durata effettiva degli esami, il suo utilizzo può generare un impatto psicologico positivo, agendo come un catalizzatore motivazionale per raggiungere con successo la fine del periodo degli esami. Questo dispositivo crea un obiettivo tangibile e stimolante, che spinge  a concentrarsi sulla preparazione e a raggiungere il traguardo finale con determinazione.
+
